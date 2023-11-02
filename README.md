@@ -1,8 +1,8 @@
-# Email Spam Filtering System
+# SpamAway: Email Spam Filtering System
 
 
 ## Overview
-This project is an API that uses a machine learning algorithm to predict whether an email ID is a spam or not. The API responds with a boolean value (True/False) when an email ID is passed as a parameter to it.
+SpamAway project is an API that uses a machine learning algorithm to predict whether an email ID is a spam or not. The API responds with a boolean value (True/False) when an email ID is passed as a parameter to it.
 
 
 
